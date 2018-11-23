@@ -1,7 +1,7 @@
 WindowsStandalone
 SceneListBegin?
-Assets/Resources/GameSystems/Scenes/minigame.unity
 Assets/Resources/GameSystems/Scenes/startgame.unity
+Assets/Resources/GameSystems/Scenes/minigame.unity
 Assets/Resources/RankSystems/Scenes/rank.unity
 SceneListEnd?
 0838250236ef1b3c3851d91a4f060e31 Assembly-CSharp.dll:.RankBtnController
@@ -193,7 +193,6 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 57a4ec447c17654584338d2fd56b98c3 Assembly-CSharp.dll:.RankListController
 99e85fbf016ce1a98448801d41ddae75 Assembly-CSharp.dll:.EnterSceneController
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.QuitBtnController
-df1de9a2108cc00c68bdcd218b8ebfe2 Assembly-CSharp.dll:.sc
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 b2b456a7a360c870f9793fde3db5533d Assembly-CSharp.dll:.Pointed

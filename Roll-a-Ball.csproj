@@ -325,28 +325,26 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ChangeSceneImgController.cs" />
-    <Compile Include="Assets\CheckNameGoBtnController.cs" />
-    <Compile Include="Assets\click.cs" />
-    <Compile Include="Assets\EnterGameSetting.cs" />
-    <Compile Include="Assets\enterRank.cs" />
-    <Compile Include="Assets\EnterSceneController.cs" />
-    <Compile Include="Assets\GameReturnBtnController.cs" />
-    <Compile Include="Assets\imagecontroller.cs" />
-    <Compile Include="Assets\Pointed.cs" />
-    <Compile Include="Assets\QuitBtnController.cs" />
-    <Compile Include="Assets\RankBtnController.cs" />
-    <Compile Include="Assets\RankListController.cs" />
+    <Compile Include="Assets\Resources\CommonRes\Scripts\ChangeSceneImgController.cs" />
     <Compile Include="Assets\Resources\GameSystems\Scripts\CemeraController.cs" />
+    <Compile Include="Assets\Resources\GameSystems\Scripts\CheckNameGoBtnController.cs" />
+    <Compile Include="Assets\Resources\GameSystems\Scripts\click.cs" />
+    <Compile Include="Assets\Resources\GameSystems\Scripts\EnterGameSetting.cs" />
+    <Compile Include="Assets\Resources\GameSystems\Scripts\enterRank.cs" />
+    <Compile Include="Assets\Resources\GameSystems\Scripts\EnterSceneController.cs" />
+    <Compile Include="Assets\Resources\GameSystems\Scripts\GameReturnBtnController.cs" />
+    <Compile Include="Assets\Resources\GameSystems\Scripts\imagecontroller.cs" />
     <Compile Include="Assets\Resources\GameSystems\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Resources\GameSystems\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Resources\GameSystems\Scripts\Pointed.cs" />
+    <Compile Include="Assets\Resources\GameSystems\Scripts\QuitBtnController.cs" />
     <Compile Include="Assets\Resources\GameSystems\Scripts\Rotator.cs" />
-    <Compile Include="Assets\ReturnBtnController.cs" />
-    <Compile Include="Assets\sc.cs" />
-    <Compile Include="Assets\StartBtnController.cs" />
+    <Compile Include="Assets\Resources\GameSystems\StartBtnController.cs" />
+    <Compile Include="Assets\Resources\RankSystems\ReturnBtnController.cs" />
+    <Compile Include="Assets\Resources\RankSystems\Scripts\RankBtnController.cs" />
+    <Compile Include="Assets\Resources\RankSystems\Scripts\RankListController.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\RankData.txt" />
     <None Include="Assets\Resources\CommonRes\Fonts\PSDFonts\Baloo\OFL.txt" />
     <None Include="Assets\Resources\CommonRes\Fonts\PSDFonts\Changa_One\OFL.txt" />
     <None Include="Assets\Resources\CommonRes\Fonts\PSDFonts\Lilita_One\OFL.txt" />
